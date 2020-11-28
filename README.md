@@ -7,6 +7,6 @@ and Code proposed in book "Introduction to 3D Game Programming with DirectX 12" 
 Basic texture example:
 
 Tested for:
-Windows SDK 10.0.17763
+Windows SDK 10.0.18362
 Visual Studio 16.8.2
 CL 19.28
