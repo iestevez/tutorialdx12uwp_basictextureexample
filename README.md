@@ -1,2 +1,12 @@
 # tutorialdx12uwp_basictexture-master
- Basic texture example
+Based on template from Walbourn
+
+https://github.com/walbourn/directx-vs-templates
+and Code proposed in book "Introduction to 3D Game Programming with DirectX 12" by Frank Luna
+
+Basic texture example:
+
+Tested for:
+Windows SDK 10.0.17763
+Visual Studio 16.8.2
+CL 19.28
